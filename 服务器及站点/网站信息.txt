@@ -1,0 +1,5 @@
+1.商城发布目录: /cust/pandora1-fe-website-vue
+2.后端管理系统的发布目录: /cust/pandora1-fe-backstage-vue
+3.后端API及其发布目录: 
+   (1) GateWay: /cust/pandora1-be-backstage-dotnet/GatewayApi
+   (2) API: /cust/pandora1-be-backstage-dotnet/MISApi
