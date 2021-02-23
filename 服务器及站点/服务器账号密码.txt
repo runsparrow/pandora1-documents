@@ -5,7 +5,7 @@
 	账号:root
 	密码:MGwenhua123..
 
-	MySQL:
+	MySQL(版本5.7.32-35):
 	端口:3366
 	
 	账号:root(不能远程访问mysql，只能上服务器登录)
@@ -14,11 +14,11 @@
 	账号:sa(可以远程访问mysql)
 	密码:sa1234567890
 
-	Redis:
+	Redis(版本6.0.10):
 	端口:6389
 	密码:redis1234567890
 	
-	RabbitMQ:
+	RabbitMQ(版本3.8.12):
 	端口:15672和5672
 	账号:admin
 	密码:admin1234567890
@@ -28,7 +28,7 @@
 	账号:root
 	密码:MGwenhua123..
 
-	MySQL:
+	MySQL(版本5.7.32-35):
 	端口:3366
 	
 	账号:root(不能远程访问mysql，只能上服务器登录)
@@ -37,11 +37,11 @@
 	账号:sa(可以远程访问mysql)
 	密码:sa1234567890
 
-	Redis:
+	Redis(版本6.0.10):
 	端口:6389
 	密码:redis1234567890
 	
-	RabbitMQ:
+	RabbitMQ(版本3.8.12):
 	端口:15672和5672
 	账号:admin
 	密码:admin1234567890
