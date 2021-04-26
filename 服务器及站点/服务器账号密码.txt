@@ -3,7 +3,7 @@
 1.远程服务器(开发环境):
 	IP: 106.15.88.18
 	账号:root
-	密码:MGwenhua123..
+	密码:eyJ0eXAiOiJKV1Qi$_>>&LCJhiJIi^
 
 	MySQL(版本5.7.32-35):
 	端口:3366
@@ -37,7 +37,7 @@
 2.远程服务器(生产环境):
 	IP: 8.133.164.41
 	账号:root
-	密码:MGwenhua123..
+	密码:eyJ0eXAiOiJKV1Qi$_>>&LCJhiJIi^
 
 	MySQL(版本5.7.32-35):
 	端口:3366
